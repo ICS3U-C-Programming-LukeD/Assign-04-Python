@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created By: Luke Di Bert
-# Date: March , 2025
+# Date: May 2, 2025
 
 # adds random module
 import random
@@ -11,6 +11,7 @@ interactions = ["lose!", "tied!", "win!"]
 rock = [1, 0, 2]
 paper = [2, 1, 0]
 scissors = [0, 2, 1]
+
 
 def main():
 
